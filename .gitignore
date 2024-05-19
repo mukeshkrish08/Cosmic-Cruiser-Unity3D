@@ -1,0 +1,17 @@
+# Ignore Visual Studio temporary files
+.VS/
+
+# Ignore Unity generated folders
+Library/
+Logs/
+obj/
+Packages/
+ProjectSettings/
+UserSettings/
+
+# Ignore Visual Studio configuration file
+.vsconfig
+
+# Ignore generated project files
+Assembly-CSharp.csproj
+Rocket run.sln
